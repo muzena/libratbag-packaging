@@ -3,7 +3,7 @@ Maintainer: Stephen Kitt <skitt@debian.org>
 Section: libs
 Priority: optional
 Build-Depends: check,
-               debhelper-compat (= 12),
+               debhelper (>= 11),
                dh-python,
                git,
                libevdev-dev,

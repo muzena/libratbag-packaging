@@ -3,11 +3,12 @@ Maintainer: Stephen Kitt <skitt@debian.org>
 Section: libs
 Priority: optional
 Build-Depends: check,
-               debhelper (>= 9~),
+               debhelper (>= 9),
                dh-python,
                git,
                libevdev-dev,
                libglib2.0-dev,
+               libjson-glib-dev,
                libsystemd-dev (>= 227),
                libudev-dev,
                libunistring-dev,
@@ -19,7 +20,7 @@ Build-Depends: check,
                python3-lxml,
                swig,
                systemd
-Standards-Version: 4.3.0
+Standards-Version: 4.4.0
 Vcs-Browser: https://salsa.debian.org/debian/libratbag
 Vcs-Git: https://salsa.debian.org/debian/libratbag.git
 Homepage: https://github.com/libratbag/libratbag/

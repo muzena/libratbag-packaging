@@ -5,7 +5,7 @@ Source: https://github.com/libratbag/libratbag
 Files: *
 Copyright: 2013 Jonas Ådahl
            2013-2015 Benjamin Tissoires
-           2013-2017 Red Hat, Inc.
+           2013-2019 Red Hat, Inc.
            2015 David Herrmann
 License: MIT
 
@@ -41,7 +41,7 @@ License: ISC
  OF THIS SOFTWARE.
 
 Files: debian/*
-Copyright: 2016-2018 Stephen Kitt
+Copyright: 2016-2019 Stephen Kitt
 License: MIT
 
 License: MIT

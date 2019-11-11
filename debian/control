@@ -20,7 +20,7 @@ Build-Depends: check,
                python3-lxml,
                swig,
                systemd
-Standards-Version: 4.4.0
+Standards-Version: 4.4.1
 Vcs-Browser: https://salsa.debian.org/debian/libratbag
 Vcs-Git: https://salsa.debian.org/debian/libratbag.git
 Homepage: https://github.com/libratbag/libratbag/

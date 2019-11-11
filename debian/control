@@ -17,7 +17,6 @@ Build-Depends: check,
                python3-dev,
                python3-evdev,
                python3-gi,
-               python-gi-dev,
                python3-lxml,
                swig,
                systemd

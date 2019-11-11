@@ -1,3 +1,10 @@
+libratbag (0.11-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Standards-Version 4.4.1, no change required.
+
+ -- Stephen Kitt <skitt@debian.org>  Fri, 08 Nov 2019 17:44:18 +0100
+
 libratbag (0.10-1) unstable; urgency=medium
 
   * New upstream release.
